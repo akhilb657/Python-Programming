@@ -1,0 +1,9 @@
+CRITICAL:root:Critical
+ERROR:root:Error
+WARNING:root:Warning
+INFO:root:Information
+DEBUG:root:Debug
+CRITICAL:root:Critical
+INFO:root:Division in Progress
+INFO:root:Division in Progress
+ERROR:root:Division by zero
